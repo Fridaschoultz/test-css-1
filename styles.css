@@ -1,0 +1,33 @@
+* {
+    background-color: cadetblue;
+}
+
+.myHeader {
+    color: #053638;
+    font-size: 200%;
+    padding: 20px;
+    text-align: center;
+}
+
+.navBar {
+    text-align: center;
+    font-size: large;
+    padding: 20px;
+}
+
+a:hover,
+a:visited,
+a:link {
+    text-decoration: none;
+}
+
+.leftText {
+    display: inline-block;
+    padding-right: 500 px;
+    margin-right: 500 px;
+}
+
+h1,
+p {
+    background-color: lightcoral;
+}
