@@ -15,6 +15,14 @@
     padding: 20px;
 }
 
+#para1{
+    background-color: maroon;
+}
+
+#para2{
+    background-color: mediumslateblue;
+}
+
 a:hover,
 a:visited,
 a:link {
