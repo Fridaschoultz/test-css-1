@@ -29,12 +29,6 @@ a:link {
     text-decoration: none;
 }
 
-.leftText {
-    display: inline-block;
-    padding-right: 500 px;
-    margin-right: 500 px;
-}
-
 h1,
 p {
     background-color: lightcoral;
